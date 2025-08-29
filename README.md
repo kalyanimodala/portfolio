@@ -18,8 +18,6 @@ This project showcases my skills, projects, and achievements as a developer.
 - Git & GitHub for version control  
 - GitHub Pages for deployment  
 
-## 📷 Preview
-(Add a screenshot of your portfolio website here later)
 
 ## 📬 Contact
 - Email: *your email here*  
